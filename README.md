@@ -1,7 +1,7 @@
-==========================================
+
 USB Relay Control Script (CH340 based)
-Version: 1.3
-==========================================
+Version: 1.0
+
 DESCRIPTION:
   Controls a 2-channel USB relay module that
   uses a CH340 USB-to-Serial microcontroller.
