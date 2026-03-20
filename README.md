@@ -1,5 +1,5 @@
 
-USB Relay Control Script (CH340 based)
+# USB Relay Control Script (CH340 based)
 Version: 1.0
 
 DESCRIPTION:
@@ -45,5 +45,3 @@ NOTES:
   - Device appears as /dev/ttyUSB*
   - Default baud rate: 9600
   - Status responses are ASCII (e.g. "CH1: ON")
-
-==========================================
